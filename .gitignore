@@ -1,0 +1,14 @@
+*.log
+.env
+.env.local
+.env.*.local
+
+.cache/
+.tmp/
+
+*.bak
+*.tmp
+*.temp
+*.orig
+
+up
